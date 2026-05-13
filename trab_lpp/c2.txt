@@ -1,0 +1,6 @@
+int teste() {
+    int y = 10;
+    if (y > 5) {
+        return y;
+    }
+}
